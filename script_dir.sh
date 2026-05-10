@@ -1,0 +1,1 @@
+mkdir -p carpeta1/carpeta2/carpeta3
